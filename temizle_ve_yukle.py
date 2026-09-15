@@ -41,7 +41,7 @@ print("\nTemizlenmis veri ozeti:")
 print(df.info())
 
 # Temizlenmis veriyi de bir CSV olarak sakla (kontrol amacli)
-df.to_csv("satislar_temiz.csv", index=False, encoding="utf-8-sig")
+df.to_csv("temiz_veri.csv", index=False, encoding="utf-8-sig")
 print("\nTemiz veri kaydedildi: satislar_temiz.csv")
 
 # --- 3. ADIM: POSTGRESQL'E YUKLE ---

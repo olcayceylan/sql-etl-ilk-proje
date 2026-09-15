@@ -1,0 +1,475 @@
+﻿siparis_id,musteri_adi,urun,kategori,adet,birim_fiyat,tarih,toplam_tutar
+1,Ayse Kaya,Telefon,Elektronik,1,98.77,2025-01-17,98.77
+2,Fatma Sahin,Laptop,Elektronik,5,232.71,2025-10-07,1163.55
+3,Mehmet Demir,Tablet,Elektronik,1,479.86,2025-06-24,479.86
+4,Mustafa Yildiz,Mouse,Aksesuar,1,353.19,2025-06-26,353.19
+5,Ayse Kaya,Mouse,Aksesuar,4,1623.9,2025-07-05,6495.6
+6,Ayse Kaya,Klavye,Aksesuar,3,1057.0211864406779,2025-02-21,3171.06
+7,Zeynep Arslan,Tablet,Elektronik,3,592.05,2025-05-17,1776.15
+8,Elif Aydin,Telefon,Elektronik,2,1237.81,2025-10-13,2475.62
+9,Ahmet Yilmaz,Klavye,Aksesuar,2,1385.0,2025-07-25,2770.0
+10,Fatma Sahin,Mouse,Aksesuar,3,179.07,2025-07-22,537.21
+11,Ali Celik,Sarj Aleti,Aksesuar,5,328.6,2025-08-08,1643.0
+12,Ayse Kaya,Tablet,Elektronik,4,755.89,2025-02-26,3023.56
+13,Mustafa Yildiz,Kulaklik,Aksesuar,1,1273.52,2025-08-28,1273.52
+16,Fatma Sahin,Kulaklik,Aksesuar,5,1039.98,2025-03-24,5199.9
+17,Ali Celik,Laptop,Elektronik,3,1217.94,2025-05-04,3653.82
+18,Mehmet Demir,Telefon,Elektronik,5,217.02,2025-09-01,1085.1
+19,Fatma Sahin,Kulaklik,Aksesuar,2,566.86,2025-07-24,1133.72
+20,Ayse Kaya,Monitor,Elektronik,2,904.3,2025-10-11,1808.6
+21,Fatma Sahin,Klavye,Aksesuar,1,1057.0211864406779,2025-01-17,1057.02
+22,Mehmet Demir,Monitor,Elektronik,2,188.17,2025-10-20,376.34
+23,Ayse Kaya,Sarj Aleti,Aksesuar,1,523.84,2025-07-01,523.84
+24,Ahmet Yilmaz,Tablet,Elektronik,1,851.65,2025-06-23,851.65
+25,Mehmet Demir,Telefon,Elektronik,4,534.88,2025-05-08,2139.52
+26,Ahmet Yilmaz,Telefon,Elektronik,1,914.1,2025-05-02,914.1
+27,Mehmet Demir,Kulaklik,Aksesuar,1,842.51,2025-07-19,842.51
+28,Elif Aydin,Mouse,Aksesuar,5,1856.71,2025-06-01,9283.55
+29,Ahmet Yilmaz,Klavye,Aksesuar,3,1938.98,2025-09-02,5816.94
+30,Ayse Kaya,Kulaklik,Aksesuar,1,160.92,2025-05-01,160.92
+31,Ahmet Yilmaz,Tablet,Elektronik,5,283.78,2025-08-03,1418.9
+32,Ali Celik,Monitor,Elektronik,2,1872.68,2025-06-03,3745.36
+33,Ayse Kaya,Sarj Aleti,Aksesuar,4,666.55,2025-04-20,2666.2
+34,Zeynep Arslan,Mouse,Aksesuar,2,308.29,2025-08-13,616.58
+35,Ali Celik,Mouse,Aksesuar,1,1242.77,2025-02-23,1242.77
+36,Ali Celik,Kulaklik,Aksesuar,2,565.71,2025-04-18,1131.42
+37,Ali Celik,Monitor,Elektronik,4,447.01,2025-01-27,1788.04
+38,Mehmet Demir,Telefon,Elektronik,3,1286.85,2025-05-15,3860.55
+39,Ayse Kaya,Kulaklik,Aksesuar,1,1495.4,2025-03-18,1495.4
+40,Ahmet Yilmaz,Laptop,Elektronik,2,1677.46,2025-01-21,3354.92
+41,Mustafa Yildiz,Monitor,Elektronik,5,459.65,2025-03-21,2298.25
+42,Ahmet Yilmaz,Klavye,Aksesuar,4,1735.98,2025-06-20,6943.92
+43,Mehmet Demir,Tablet,Elektronik,3,1614.36,2025-02-25,4843.08
+44,Zeynep Arslan,Tablet,Elektronik,4,1750.73,2025-04-27,7002.92
+45,Ali Celik,Klavye,Aksesuar,1,96.15,2025-09-18,96.15
+46,Ayse Kaya,Tablet,Elektronik,1,1375.06,2025-05-14,1375.06
+47,Mustafa Yildiz,Kulaklik,Aksesuar,5,1182.15,2025-06-10,5910.75
+48,Fatma Sahin,Tablet,Elektronik,5,1232.11,2025-08-12,6160.55
+49,Zeynep Arslan,Laptop,Elektronik,2,1063.84,2025-06-19,2127.68
+50,Ali Celik,Monitor,Elektronik,5,1343.61,2025-06-17,6718.05
+51,Mehmet Demir,Tablet,Elektronik,4,1409.56,2025-06-04,5638.24
+52,Zeynep Arslan,Tablet,Elektronik,4,979.8590624999999,2025-08-15,3919.44
+53,Ayse Kaya,Klavye,Aksesuar,2,1046.79,2025-06-21,2093.58
+54,Fatma Sahin,Telefon,Elektronik,2,1645.93,2025-01-24,3291.86
+55,Mustafa Yildiz,Klavye,Aksesuar,4,1968.68,2025-10-22,7874.72
+56,Ahmet Yilmaz,Klavye,Aksesuar,2,1450.77,2025-02-24,2901.54
+57,Ahmet Yilmaz,Tablet,Elektronik,4,476.74,2025-03-04,1906.96
+58,Zeynep Arslan,Sarj Aleti,Aksesuar,5,310.01,2025-08-15,1550.05
+59,Elif Aydin,Tablet,Elektronik,4,1669.61,2025-05-07,6678.44
+60,Elif Aydin,Mouse,Aksesuar,3,1543.34,2025-05-27,4630.02
+61,Mehmet Demir,Klavye,Aksesuar,2,579.84,2025-03-20,1159.68
+62,Ahmet Yilmaz,Klavye,Aksesuar,4,175.25,2025-08-04,701.0
+63,Mustafa Yildiz,Tablet,Elektronik,5,1814.44,2025-06-30,9072.2
+64,Fatma Sahin,Mouse,Aksesuar,4,1519.28,2025-05-20,6077.12
+65,Mehmet Demir,Tablet,Elektronik,4,997.0,2025-03-07,3988.0
+66,Mustafa Yildiz,Laptop,Elektronik,1,1818.51,2025-08-25,1818.51
+67,Zeynep Arslan,Kulaklik,Aksesuar,3,148.06,2025-07-14,444.18
+69,Ahmet Yilmaz,Laptop,Elektronik,1,1999.82,2025-04-13,1999.82
+70,Fatma Sahin,Laptop,Elektronik,1,1261.6,2025-05-12,1261.6
+71,Mehmet Demir,Monitor,Elektronik,1,377.19,2025-02-25,377.19
+72,Mustafa Yildiz,Laptop,Elektronik,4,1861.33,2025-04-12,7445.32
+73,Ayse Kaya,Telefon,Elektronik,3,1204.59,2025-10-17,3613.77
+75,Mehmet Demir,Sarj Aleti,Aksesuar,4,255.8,2025-09-25,1023.2
+76,Mustafa Yildiz,Mouse,Aksesuar,4,1251.03,2025-05-18,5004.12
+77,Fatma Sahin,Monitor,Elektronik,4,1710.84,2025-10-19,6843.36
+78,Fatma Sahin,Tablet,Elektronik,4,705.97,2025-05-13,2823.88
+79,Ahmet Yilmaz,Monitor,Elektronik,5,595.33,2025-04-08,2976.65
+80,Elif Aydin,Telefon,Elektronik,2,520.64,2025-09-09,1041.28
+81,Ali Celik,Sarj Aleti,Aksesuar,2,1596.22,2025-07-08,3192.44
+82,Zeynep Arslan,Sarj Aleti,Aksesuar,5,1129.27,2025-08-21,5646.35
+83,Ayse Kaya,Mouse,Aksesuar,3,647.91,2025-04-05,1943.73
+84,Ali Celik,Klavye,Aksesuar,5,471.95,2025-04-10,2359.75
+86,Ayse Kaya,Mouse,Aksesuar,4,1409.96,2025-10-21,5639.84
+87,Ali Celik,Mouse,Aksesuar,1,965.32,2025-09-02,965.32
+88,Mehmet Demir,Telefon,Elektronik,1,1653.13,2025-10-16,1653.13
+89,Fatma Sahin,Mouse,Aksesuar,4,216.1,2025-07-14,864.4
+90,Ali Celik,Sarj Aleti,Aksesuar,4,1821.58,2025-01-31,7286.32
+91,Mehmet Demir,Telefon,Elektronik,1,1897.8,2025-10-10,1897.8
+93,Fatma Sahin,Mouse,Aksesuar,3,1420.83,2025-10-06,4262.49
+94,Ahmet Yilmaz,Klavye,Aksesuar,1,1312.89,2025-06-07,1312.89
+95,Ali Celik,Mouse,Aksesuar,4,906.35,2025-09-10,3625.4
+97,Mehmet Demir,Laptop,Elektronik,1,1999.17,2025-08-15,1999.17
+98,Ayse Kaya,Mouse,Aksesuar,4,403.9,2025-07-29,1615.6
+99,Elif Aydin,Monitor,Elektronik,4,676.06,2025-07-25,2704.24
+100,Ahmet Yilmaz,Laptop,Elektronik,4,936.91,2025-10-05,3747.64
+101,Elif Aydin,Sarj Aleti,Aksesuar,4,855.83,2025-04-15,3423.32
+103,Ayse Kaya,Kulaklik,Aksesuar,2,948.9709999999999,2025-03-02,1897.94
+104,Mustafa Yildiz,Kulaklik,Aksesuar,3,1021.83,2025-08-30,3065.49
+105,Mehmet Demir,Klavye,Aksesuar,5,940.73,2025-05-22,4703.65
+106,Ali Celik,Tablet,Elektronik,1,712.76,2025-10-28,712.76
+107,Mustafa Yildiz,Sarj Aleti,Aksesuar,3,1737.26,2025-06-14,5211.78
+108,Ahmet Yilmaz,Klavye,Aksesuar,4,1962.51,2025-08-31,7850.04
+109,Elif Aydin,Tablet,Elektronik,2,802.85,2025-03-06,1605.7
+111,Zeynep Arslan,Tablet,Elektronik,3,1748.32,2025-07-23,5244.96
+112,Zeynep Arslan,Telefon,Elektronik,4,1710.94,2025-09-07,6843.76
+113,Fatma Sahin,Laptop,Elektronik,3,1254.05,2025-08-11,3762.15
+114,Ali Celik,Telefon,Elektronik,2,1532.72,2025-01-24,3065.44
+115,Fatma Sahin,Monitor,Elektronik,2,1602.48,2025-10-17,3204.96
+116,Fatma Sahin,Kulaklik,Aksesuar,5,381.47,2025-10-26,1907.35
+117,Elif Aydin,Kulaklik,Aksesuar,1,502.77,2025-10-07,502.77
+118,Mustafa Yildiz,Kulaklik,Aksesuar,3,194.03,2025-08-22,582.09
+119,Mustafa Yildiz,Mouse,Aksesuar,2,438.47,2025-10-22,876.94
+121,Zeynep Arslan,Sarj Aleti,Aksesuar,2,1674.04,2025-04-08,3348.08
+122,Ayse Kaya,Mouse,Aksesuar,2,1371.64,2025-01-21,2743.28
+123,Ayse Kaya,Mouse,Aksesuar,2,936.1556250000002,2025-06-17,1872.31
+124,Ali Celik,Tablet,Elektronik,3,392.5,2025-05-12,1177.5
+125,Elif Aydin,Sarj Aleti,Aksesuar,1,1936.4,2025-03-14,1936.4
+126,Zeynep Arslan,Klavye,Aksesuar,5,1727.27,2025-07-22,8636.35
+127,Mustafa Yildiz,Laptop,Elektronik,3,565.69,2025-07-10,1697.07
+128,Zeynep Arslan,Telefon,Elektronik,5,1365.93,2025-04-24,6829.65
+129,Ayse Kaya,Telefon,Elektronik,4,1289.04,2025-01-20,5156.16
+130,Mehmet Demir,Mouse,Aksesuar,5,1992.06,2025-07-09,9960.3
+131,Elif Aydin,Tablet,Elektronik,1,1195.31,2025-05-24,1195.31
+132,Zeynep Arslan,Laptop,Elektronik,2,1396.05,2025-07-08,2792.1
+133,Ayse Kaya,Monitor,Elektronik,4,168.07,2025-01-11,672.28
+134,Fatma Sahin,Laptop,Elektronik,5,1584.25,2025-10-11,7921.25
+135,Ahmet Yilmaz,Klavye,Aksesuar,2,1193.45,2025-03-16,2386.9
+137,Ayse Kaya,Monitor,Elektronik,4,80.77,2025-09-01,323.08
+138,Fatma Sahin,Sarj Aleti,Aksesuar,5,1567.13,2025-01-23,7835.65
+139,Mustafa Yildiz,Mouse,Aksesuar,4,943.18,2025-02-25,3772.72
+140,Mehmet Demir,Sarj Aleti,Aksesuar,3,1439.18,2025-05-21,4317.54
+141,Mustafa Yildiz,Monitor,Elektronik,5,792.76,2025-02-28,3963.8
+142,Mustafa Yildiz,Klavye,Aksesuar,4,888.64,2025-02-18,3554.56
+143,Elif Aydin,Monitor,Elektronik,2,882.19,2025-02-13,1764.38
+144,Ahmet Yilmaz,Telefon,Elektronik,2,892.16,2025-10-15,1784.32
+145,Ahmet Yilmaz,Monitor,Elektronik,4,1356.53,2025-06-09,5426.12
+146,Fatma Sahin,Monitor,Elektronik,4,252.02,2025-06-29,1008.08
+147,Ahmet Yilmaz,Monitor,Elektronik,4,274.03,2025-05-17,1096.12
+149,Fatma Sahin,Tablet,Elektronik,1,185.69,2025-08-21,185.69
+150,Ayse Kaya,Monitor,Elektronik,5,356.95,2025-03-21,1784.75
+151,Mustafa Yildiz,Kulaklik,Aksesuar,4,948.9709999999999,2025-08-15,3795.88
+152,Ayse Kaya,Tablet,Elektronik,4,582.68,2025-09-07,2330.72
+153,Fatma Sahin,Mouse,Aksesuar,1,138.56,2025-04-19,138.56
+154,Mustafa Yildiz,Kulaklik,Aksesuar,4,1540.11,2025-07-14,6160.44
+155,Mustafa Yildiz,Klavye,Aksesuar,1,1025.51,2025-01-22,1025.51
+156,Mustafa Yildiz,Tablet,Elektronik,5,86.55,2025-08-02,432.75
+157,Elif Aydin,Mouse,Aksesuar,5,936.1556250000002,2025-07-05,4680.78
+158,Ayse Kaya,Telefon,Elektronik,4,901.59,2025-06-08,3606.36
+159,Fatma Sahin,Monitor,Elektronik,1,482.07,2025-06-28,482.07
+160,Ayse Kaya,Monitor,Elektronik,2,1468.39,2025-04-12,2936.78
+161,Elif Aydin,Kulaklik,Aksesuar,2,1224.68,2025-10-16,2449.36
+162,Zeynep Arslan,Sarj Aleti,Aksesuar,5,1378.21,2025-06-11,6891.05
+163,Ahmet Yilmaz,Kulaklik,Aksesuar,3,907.54,2025-02-07,2722.62
+164,Ayse Kaya,Mouse,Aksesuar,3,936.1556250000002,2025-02-16,2808.47
+165,Elif Aydin,Tablet,Elektronik,1,952.29,2025-10-20,952.29
+166,Elif Aydin,Klavye,Aksesuar,1,676.98,2025-06-25,676.98
+167,Elif Aydin,Telefon,Elektronik,4,1033.87,2025-03-23,4135.48
+168,Ahmet Yilmaz,Monitor,Elektronik,3,777.06,2025-06-21,2331.18
+169,Mehmet Demir,Telefon,Elektronik,3,692.9,2025-10-26,2078.7
+170,Mehmet Demir,Kulaklik,Aksesuar,4,1837.66,2025-02-13,7350.64
+171,Ayse Kaya,Mouse,Aksesuar,2,1139.9,2025-08-05,2279.8
+172,Elif Aydin,Monitor,Elektronik,3,85.55,2025-03-12,256.65
+173,Ahmet Yilmaz,Kulaklik,Aksesuar,5,200.47,2025-03-09,1002.35
+174,Mehmet Demir,Tablet,Elektronik,5,350.79,2025-01-23,1753.95
+175,Ali Celik,Tablet,Elektronik,5,760.38,2025-08-18,3801.9
+176,Fatma Sahin,Klavye,Aksesuar,4,1091.32,2025-10-20,4365.28
+177,Mustafa Yildiz,Sarj Aleti,Aksesuar,5,950.28,2025-04-13,4751.4
+178,Ayse Kaya,Kulaklik,Aksesuar,3,1752.35,2025-09-22,5257.05
+179,Mehmet Demir,Telefon,Elektronik,5,605.87,2025-02-16,3029.35
+180,Ahmet Yilmaz,Klavye,Aksesuar,4,1642.57,2025-07-11,6570.28
+181,Ayse Kaya,Klavye,Aksesuar,3,803.02,2025-06-21,2409.06
+182,Elif Aydin,Kulaklik,Aksesuar,2,318.32,2025-01-03,636.64
+183,Mustafa Yildiz,Telefon,Elektronik,5,87.06,2025-05-28,435.3
+184,Elif Aydin,Klavye,Aksesuar,5,1057.0211864406779,2025-09-13,5285.11
+186,Zeynep Arslan,Klavye,Aksesuar,5,1162.79,2025-09-27,5813.95
+187,Ali Celik,Laptop,Elektronik,3,811.38,2025-07-02,2434.14
+188,Zeynep Arslan,Telefon,Elektronik,5,722.36,2025-06-30,3611.8
+189,Elif Aydin,Monitor,Elektronik,4,1636.34,2025-03-11,6545.36
+190,Ahmet Yilmaz,Telefon,Elektronik,2,1446.29,2025-01-22,2892.58
+191,Elif Aydin,Monitor,Elektronik,5,1870.07,2025-04-08,9350.35
+192,Ali Celik,Mouse,Aksesuar,3,746.1,2025-07-08,2238.3
+193,Zeynep Arslan,Tablet,Elektronik,4,1784.5,2025-09-12,7138.0
+194,Mustafa Yildiz,Sarj Aleti,Aksesuar,1,766.33,2025-04-03,766.33
+195,Elif Aydin,Mouse,Aksesuar,3,676.36,2025-08-07,2029.08
+196,Mustafa Yildiz,Kulaklik,Aksesuar,3,1395.04,2025-01-30,4185.12
+197,Ahmet Yilmaz,Telefon,Elektronik,2,1358.81,2025-08-13,2717.62
+198,Mustafa Yildiz,Laptop,Elektronik,3,296.15,2025-01-17,888.45
+199,Mehmet Demir,Kulaklik,Aksesuar,1,1374.17,2025-07-23,1374.17
+200,Elif Aydin,Monitor,Elektronik,2,1316.64,2025-10-15,2633.28
+201,Ali Celik,Telefon,Elektronik,5,560.46,2025-09-09,2802.3
+202,Ayse Kaya,Klavye,Aksesuar,4,289.14,2025-06-13,1156.56
+203,Mehmet Demir,Monitor,Elektronik,3,1433.6,2025-03-31,4300.8
+204,Fatma Sahin,Monitor,Elektronik,2,1042.07,2025-01-14,2084.14
+205,Mehmet Demir,Monitor,Elektronik,5,1130.34,2025-02-14,5651.7
+206,Mustafa Yildiz,Telefon,Elektronik,5,653.12,2025-10-22,3265.6
+207,Zeynep Arslan,Telefon,Elektronik,4,294.39,2025-10-10,1177.56
+208,Ayse Kaya,Kulaklik,Aksesuar,1,1547.17,2025-06-05,1547.17
+209,Ali Celik,Kulaklik,Aksesuar,5,365.84,2025-05-09,1829.2
+210,Ayse Kaya,Klavye,Aksesuar,3,1288.36,2025-03-28,3865.08
+211,Ahmet Yilmaz,Kulaklik,Aksesuar,3,383.84,2025-01-15,1151.52
+212,Mustafa Yildiz,Telefon,Elektronik,2,138.65,2025-01-16,277.3
+213,Elif Aydin,Sarj Aleti,Aksesuar,3,1783.54,2025-07-27,5350.62
+214,Elif Aydin,Mouse,Aksesuar,4,934.41,2025-06-24,3737.64
+215,Mustafa Yildiz,Kulaklik,Aksesuar,3,659.54,2025-07-09,1978.62
+216,Mehmet Demir,Telefon,Elektronik,2,672.28,2025-05-29,1344.56
+217,Zeynep Arslan,Tablet,Elektronik,2,1735.12,2025-06-10,3470.24
+218,Ali Celik,Klavye,Aksesuar,4,1538.09,2025-02-16,6152.36
+219,Ahmet Yilmaz,Tablet,Elektronik,3,1035.62,2025-09-11,3106.86
+220,Ali Celik,Sarj Aleti,Aksesuar,2,1043.8238333333334,2025-07-26,2087.65
+221,Ali Celik,Monitor,Elektronik,3,138.22,2025-09-16,414.66
+222,Ayse Kaya,Sarj Aleti,Aksesuar,5,1540.59,2025-02-19,7702.95
+223,Mehmet Demir,Tablet,Elektronik,3,777.74,2025-09-18,2333.22
+224,Elif Aydin,Tablet,Elektronik,3,979.8590624999999,2025-03-18,2939.58
+225,Ali Celik,Kulaklik,Aksesuar,5,689.53,2025-09-17,3447.65
+226,Zeynep Arslan,Sarj Aleti,Aksesuar,3,1432.04,2025-08-02,4296.12
+227,Elif Aydin,Mouse,Aksesuar,1,1603.67,2025-10-24,1603.67
+228,Mustafa Yildiz,Klavye,Aksesuar,5,1456.73,2025-05-05,7283.65
+229,Zeynep Arslan,Laptop,Elektronik,4,1166.51,2025-07-31,4666.04
+230,Mehmet Demir,Klavye,Aksesuar,1,850.24,2025-10-15,850.24
+231,Elif Aydin,Monitor,Elektronik,2,1996.34,2025-06-25,3992.68
+232,Elif Aydin,Monitor,Elektronik,3,1367.94,2025-05-07,4103.82
+233,Ali Celik,Mouse,Aksesuar,3,1138.27,2025-09-08,3414.81
+234,Ali Celik,Monitor,Elektronik,3,985.62,2025-10-06,2956.86
+235,Ali Celik,Tablet,Elektronik,2,1796.73,2025-02-10,3593.46
+236,Fatma Sahin,Monitor,Elektronik,2,1851.82,2025-05-19,3703.64
+237,Ahmet Yilmaz,Mouse,Aksesuar,2,317.68,2025-09-29,635.36
+238,Ayse Kaya,Klavye,Aksesuar,4,1293.99,2025-03-12,5175.96
+239,Elif Aydin,Laptop,Elektronik,4,1930.81,2025-05-28,7723.24
+240,Fatma Sahin,Monitor,Elektronik,5,606.56,2025-01-20,3032.8
+241,Mustafa Yildiz,Kulaklik,Aksesuar,1,864.88,2025-04-06,864.88
+242,Zeynep Arslan,Mouse,Aksesuar,1,936.1556250000002,2025-10-06,936.16
+243,Fatma Sahin,Sarj Aleti,Aksesuar,3,1784.06,2025-06-19,5352.18
+244,Zeynep Arslan,Kulaklik,Aksesuar,1,1475.68,2025-10-18,1475.68
+245,Zeynep Arslan,Klavye,Aksesuar,4,392.22,2025-02-18,1568.88
+246,Ali Celik,Kulaklik,Aksesuar,1,1964.29,2025-08-17,1964.29
+247,Ali Celik,Mouse,Aksesuar,1,1910.37,2025-05-01,1910.37
+248,Ali Celik,Laptop,Elektronik,5,1352.18,2025-06-01,6760.9
+249,Elif Aydin,Monitor,Elektronik,2,1248.52,2025-07-11,2497.04
+250,Fatma Sahin,Tablet,Elektronik,2,1418.78,2025-02-11,2837.56
+251,Ahmet Yilmaz,Sarj Aleti,Aksesuar,1,1079.94,2025-09-16,1079.94
+252,Elif Aydin,Klavye,Aksesuar,5,1166.77,2025-04-16,5833.85
+253,Mehmet Demir,Sarj Aleti,Aksesuar,4,227.34,2025-08-22,909.36
+254,Mustafa Yildiz,Laptop,Elektronik,1,1139.65,2025-01-02,1139.65
+255,Ahmet Yilmaz,Klavye,Aksesuar,1,1057.0211864406779,2025-02-05,1057.02
+256,Zeynep Arslan,Sarj Aleti,Aksesuar,4,111.88,2025-07-15,447.52
+257,Mehmet Demir,Sarj Aleti,Aksesuar,5,1745.76,2025-06-28,8728.8
+258,Ahmet Yilmaz,Telefon,Elektronik,2,398.02,2025-06-02,796.04
+259,Fatma Sahin,Sarj Aleti,Aksesuar,2,1363.32,2025-03-21,2726.64
+260,Mustafa Yildiz,Mouse,Aksesuar,1,417.54,2025-01-09,417.54
+261,Ahmet Yilmaz,Klavye,Aksesuar,5,451.86,2025-01-23,2259.3
+262,Mehmet Demir,Tablet,Elektronik,1,905.98,2025-05-29,905.98
+263,Zeynep Arslan,Klavye,Aksesuar,5,1640.78,2025-03-15,8203.9
+264,Mehmet Demir,Klavye,Aksesuar,5,856.44,2025-08-07,4282.2
+265,Zeynep Arslan,Sarj Aleti,Aksesuar,4,141.42,2025-07-29,565.68
+266,Fatma Sahin,Kulaklik,Aksesuar,2,634.78,2025-03-15,1269.56
+267,Mehmet Demir,Sarj Aleti,Aksesuar,5,1833.75,2025-05-11,9168.75
+268,Ayse Kaya,Klavye,Aksesuar,3,694.01,2025-04-08,2082.03
+269,Fatma Sahin,Laptop,Elektronik,1,573.5,2025-10-28,573.5
+270,Fatma Sahin,Klavye,Aksesuar,1,984.82,2025-03-02,984.82
+271,Fatma Sahin,Sarj Aleti,Aksesuar,4,1833.16,2025-05-25,7332.64
+272,Elif Aydin,Tablet,Elektronik,3,959.19,2025-08-29,2877.57
+273,Fatma Sahin,Monitor,Elektronik,5,1832.94,2025-01-09,9164.7
+274,Mehmet Demir,Mouse,Aksesuar,3,1128.96,2025-04-28,3386.88
+275,Ali Celik,Tablet,Elektronik,3,1161.09,2025-09-08,3483.27
+276,Elif Aydin,Sarj Aleti,Aksesuar,2,948.62,2025-10-05,1897.24
+277,Ahmet Yilmaz,Laptop,Elektronik,1,1071.69,2025-04-29,1071.69
+278,Ahmet Yilmaz,Telefon,Elektronik,3,957.8694827586207,2025-09-05,2873.61
+279,Ali Celik,Sarj Aleti,Aksesuar,1,80.68,2025-05-27,80.68
+280,Ayse Kaya,Laptop,Elektronik,2,1029.32,2025-09-26,2058.64
+281,Ali Celik,Kulaklik,Aksesuar,3,519.89,2025-02-10,1559.67
+282,Ali Celik,Monitor,Elektronik,2,1920.63,2025-02-11,3841.26
+283,Ahmet Yilmaz,Laptop,Elektronik,1,232.33,2025-02-12,232.33
+284,Ahmet Yilmaz,Sarj Aleti,Aksesuar,1,1698.39,2025-10-18,1698.39
+285,Ahmet Yilmaz,Sarj Aleti,Aksesuar,3,578.64,2025-06-11,1735.92
+286,Ayse Kaya,Laptop,Elektronik,4,1924.86,2025-10-16,7699.44
+287,Zeynep Arslan,Klavye,Aksesuar,5,1155.06,2025-03-13,5775.3
+288,Fatma Sahin,Telefon,Elektronik,4,1026.55,2025-06-24,4106.2
+289,Elif Aydin,Tablet,Elektronik,4,1939.4,2025-10-11,7757.6
+290,Ali Celik,Tablet,Elektronik,1,892.1,2025-02-07,892.1
+291,Mustafa Yildiz,Telefon,Elektronik,2,572.55,2025-02-24,1145.1
+292,Ayse Kaya,Telefon,Elektronik,3,60.13,2025-04-06,180.39
+293,Ayse Kaya,Tablet,Elektronik,1,925.25,2025-02-17,925.25
+294,Fatma Sahin,Monitor,Elektronik,1,1051.6790624999999,2025-03-28,1051.68
+295,Ayse Kaya,Tablet,Elektronik,2,380.53,2025-05-22,761.06
+296,Elif Aydin,Tablet,Elektronik,2,634.52,2025-04-11,1269.04
+297,Mustafa Yildiz,Sarj Aleti,Aksesuar,3,258.6,2025-06-18,775.8
+298,Mehmet Demir,Sarj Aleti,Aksesuar,5,702.74,2025-04-13,3513.7
+299,Elif Aydin,Sarj Aleti,Aksesuar,3,662.66,2025-05-05,1987.98
+300,Fatma Sahin,Monitor,Elektronik,1,783.31,2025-10-07,783.31
+301,Fatma Sahin,Kulaklik,Aksesuar,4,1379.34,2025-05-30,5517.36
+302,Mehmet Demir,Telefon,Elektronik,4,1646.98,2025-05-04,6587.92
+303,Elif Aydin,Mouse,Aksesuar,1,1334.39,2025-09-03,1334.39
+304,Ahmet Yilmaz,Tablet,Elektronik,4,1092.02,2025-07-04,4368.08
+305,Ahmet Yilmaz,Telefon,Elektronik,2,263.27,2025-07-24,526.54
+307,Mehmet Demir,Klavye,Aksesuar,5,919.27,2025-01-13,4596.35
+308,Mehmet Demir,Sarj Aleti,Aksesuar,1,253.87,2025-06-25,253.87
+309,Elif Aydin,Sarj Aleti,Aksesuar,1,1579.33,2025-08-20,1579.33
+310,Zeynep Arslan,Monitor,Elektronik,1,1051.6790624999999,2025-03-26,1051.68
+311,Elif Aydin,Klavye,Aksesuar,4,1056.19,2025-07-27,4224.76
+312,Fatma Sahin,Kulaklik,Aksesuar,5,413.45,2025-08-08,2067.25
+313,Ayse Kaya,Tablet,Elektronik,1,58.68,2025-10-02,58.68
+314,Zeynep Arslan,Kulaklik,Aksesuar,4,763.3,2025-07-20,3053.2
+315,Ayse Kaya,Telefon,Elektronik,3,728.45,2025-06-10,2185.35
+316,Mustafa Yildiz,Telefon,Elektronik,2,515.22,2025-03-12,1030.44
+317,Mehmet Demir,Tablet,Elektronik,2,874.93,2025-03-13,1749.86
+318,Ahmet Yilmaz,Kulaklik,Aksesuar,3,663.43,2025-04-10,1990.29
+319,Mustafa Yildiz,Tablet,Elektronik,4,1929.47,2025-08-16,7717.88
+321,Ayse Kaya,Mouse,Aksesuar,4,378.01,2025-05-18,1512.04
+322,Fatma Sahin,Monitor,Elektronik,4,1106.98,2025-02-22,4427.92
+323,Ayse Kaya,Klavye,Aksesuar,3,630.53,2025-03-02,1891.59
+324,Mustafa Yildiz,Klavye,Aksesuar,5,459.26,2025-03-13,2296.3
+325,Ali Celik,Klavye,Aksesuar,5,1636.38,2025-03-28,8181.9
+326,Ayse Kaya,Monitor,Elektronik,5,1959.05,2025-07-30,9795.25
+327,Fatma Sahin,Laptop,Elektronik,2,1985.35,2025-06-14,3970.7
+328,Ali Celik,Klavye,Aksesuar,5,1534.87,2025-07-12,7674.35
+329,Ali Celik,Sarj Aleti,Aksesuar,4,197.26,2025-07-08,789.04
+331,Fatma Sahin,Monitor,Elektronik,4,1707.71,2025-06-15,6830.84
+332,Zeynep Arslan,Mouse,Aksesuar,4,708.62,2025-01-25,2834.48
+333,Mehmet Demir,Laptop,Elektronik,1,244.17,2025-01-01,244.17
+334,Mehmet Demir,Tablet,Elektronik,3,444.52,2025-05-21,1333.56
+335,Ahmet Yilmaz,Telefon,Elektronik,2,1326.45,2025-06-06,2652.9
+336,Elif Aydin,Klavye,Aksesuar,2,887.0,2025-04-26,1774.0
+337,Mehmet Demir,Sarj Aleti,Aksesuar,4,68.11,2025-04-28,272.44
+338,Ali Celik,Tablet,Elektronik,3,224.2,2025-03-10,672.6
+339,Elif Aydin,Kulaklik,Aksesuar,2,183.4,2025-04-20,366.8
+340,Ayse Kaya,Kulaklik,Aksesuar,2,1843.79,2025-03-13,3687.58
+341,Mehmet Demir,Telefon,Elektronik,3,1199.67,2025-02-13,3599.01
+342,Ali Celik,Klavye,Aksesuar,1,1129.12,2025-09-18,1129.12
+343,Elif Aydin,Klavye,Aksesuar,2,1508.3,2025-05-04,3016.6
+344,Zeynep Arslan,Sarj Aleti,Aksesuar,1,1294.26,2025-03-09,1294.26
+345,Elif Aydin,Tablet,Elektronik,2,1728.59,2025-02-07,3457.18
+346,Mustafa Yildiz,Laptop,Elektronik,1,1062.8605454545457,2025-09-14,1062.86
+347,Mehmet Demir,Tablet,Elektronik,5,875.97,2025-06-08,4379.85
+348,Zeynep Arslan,Telefon,Elektronik,5,1047.04,2025-02-03,5235.2
+349,Fatma Sahin,Mouse,Aksesuar,1,1412.42,2025-08-11,1412.42
+351,Mehmet Demir,Laptop,Elektronik,3,369.47,2025-05-18,1108.41
+352,Ayse Kaya,Telefon,Elektronik,3,957.8694827586207,2025-10-23,2873.61
+353,Mehmet Demir,Telefon,Elektronik,5,1017.49,2025-05-11,5087.45
+354,Ahmet Yilmaz,Telefon,Elektronik,5,1793.82,2025-01-07,8969.1
+355,Ahmet Yilmaz,Klavye,Aksesuar,2,139.66,2025-08-03,279.32
+356,Ayse Kaya,Klavye,Aksesuar,3,677.51,2025-03-03,2032.53
+357,Ayse Kaya,Laptop,Elektronik,4,399.72,2025-05-25,1598.88
+359,Fatma Sahin,Klavye,Aksesuar,2,954.66,2025-07-29,1909.32
+361,Ahmet Yilmaz,Mouse,Aksesuar,4,252.7,2025-03-14,1010.8
+362,Mustafa Yildiz,Mouse,Aksesuar,5,231.4,2025-07-10,1157.0
+363,Mustafa Yildiz,Sarj Aleti,Aksesuar,2,1950.38,2025-10-18,3900.76
+364,Zeynep Arslan,Laptop,Elektronik,3,898.22,2025-07-21,2694.66
+365,Mehmet Demir,Monitor,Elektronik,2,670.21,2025-10-27,1340.42
+366,Ayse Kaya,Telefon,Elektronik,4,353.05,2025-04-17,1412.2
+367,Ali Celik,Sarj Aleti,Aksesuar,2,651.2,2025-01-21,1302.4
+368,Zeynep Arslan,Klavye,Aksesuar,2,1680.05,2025-01-26,3360.1
+369,Elif Aydin,Mouse,Aksesuar,4,557.33,2025-10-09,2229.32
+370,Ahmet Yilmaz,Klavye,Aksesuar,1,234.71,2025-04-24,234.71
+371,Ali Celik,Kulaklik,Aksesuar,1,436.36,2025-02-08,436.36
+372,Ayse Kaya,Laptop,Elektronik,2,1994.46,2025-06-19,3988.92
+373,Mustafa Yildiz,Telefon,Elektronik,5,133.26,2025-07-22,666.3
+374,Mehmet Demir,Sarj Aleti,Aksesuar,2,107.49,2025-08-17,214.98
+375,Elif Aydin,Kulaklik,Aksesuar,3,117.57,2025-10-09,352.71
+376,Fatma Sahin,Sarj Aleti,Aksesuar,2,168.91,2025-10-06,337.82
+377,Elif Aydin,Laptop,Elektronik,5,1979.34,2025-10-17,9896.7
+378,Ahmet Yilmaz,Monitor,Elektronik,2,807.34,2025-05-24,1614.68
+379,Fatma Sahin,Laptop,Elektronik,5,1626.88,2025-02-21,8134.4
+380,Fatma Sahin,Klavye,Aksesuar,1,1330.89,2025-07-18,1330.89
+381,Zeynep Arslan,Monitor,Elektronik,2,1873.65,2025-07-03,3747.3
+382,Fatma Sahin,Laptop,Elektronik,2,1421.73,2025-09-10,2843.46
+384,Mehmet Demir,Laptop,Elektronik,3,696.88,2025-06-15,2090.64
+385,Zeynep Arslan,Laptop,Elektronik,1,92.73,2025-07-11,92.73
+386,Mustafa Yildiz,Tablet,Elektronik,2,1192.73,2025-09-07,2385.46
+387,Zeynep Arslan,Monitor,Elektronik,5,389.7,2025-03-31,1948.5
+388,Mustafa Yildiz,Tablet,Elektronik,1,648.31,2025-10-18,648.31
+389,Fatma Sahin,Laptop,Elektronik,5,405.06,2025-02-23,2025.3
+390,Mehmet Demir,Sarj Aleti,Aksesuar,3,324.25,2025-02-15,972.75
+391,Zeynep Arslan,Monitor,Elektronik,1,920.93,2025-02-25,920.93
+392,Mustafa Yildiz,Laptop,Elektronik,2,143.89,2025-07-13,287.78
+393,Fatma Sahin,Monitor,Elektronik,5,1114.75,2025-02-07,5573.75
+394,Zeynep Arslan,Laptop,Elektronik,1,625.07,2025-07-12,625.07
+395,Zeynep Arslan,Kulaklik,Aksesuar,1,1477.37,2025-09-05,1477.37
+396,Mehmet Demir,Laptop,Elektronik,4,891.08,2025-06-19,3564.32
+397,Ali Celik,Klavye,Aksesuar,5,1950.08,2025-06-02,9750.4
+398,Mehmet Demir,Klavye,Aksesuar,4,237.04,2025-01-02,948.16
+399,Fatma Sahin,Tablet,Elektronik,4,220.88,2025-04-16,883.52
+400,Ali Celik,Kulaklik,Aksesuar,1,1294.47,2025-08-30,1294.47
+401,Mehmet Demir,Sarj Aleti,Aksesuar,4,1795.01,2025-07-15,7180.04
+402,Fatma Sahin,Monitor,Elektronik,3,1051.6790624999999,2025-10-16,3155.04
+403,Mustafa Yildiz,Laptop,Elektronik,3,344.7,2025-04-27,1034.1
+404,Elif Aydin,Laptop,Elektronik,5,1689.55,2025-05-01,8447.75
+405,Mehmet Demir,Sarj Aleti,Aksesuar,1,632.76,2025-08-18,632.76
+406,Mehmet Demir,Kulaklik,Aksesuar,2,1900.67,2025-02-10,3801.34
+407,Ali Celik,Tablet,Elektronik,5,443.74,2025-02-04,2218.7
+408,Elif Aydin,Telefon,Elektronik,3,806.79,2025-01-07,2420.37
+409,Ayse Kaya,Tablet,Elektronik,5,269.41,2025-10-16,1347.05
+410,Ali Celik,Telefon,Elektronik,4,1582.2,2025-09-06,6328.8
+412,Ahmet Yilmaz,Klavye,Aksesuar,3,146.12,2025-06-05,438.36
+413,Fatma Sahin,Mouse,Aksesuar,1,596.68,2025-08-15,596.68
+414,Elif Aydin,Monitor,Elektronik,2,575.37,2025-07-28,1150.74
+415,Mehmet Demir,Sarj Aleti,Aksesuar,5,1531.01,2025-09-17,7655.05
+416,Mehmet Demir,Tablet,Elektronik,1,314.52,2025-04-13,314.52
+417,Ali Celik,Laptop,Elektronik,2,536.51,2025-08-26,1073.02
+418,Elif Aydin,Tablet,Elektronik,3,1289.05,2025-04-01,3867.15
+419,Ayse Kaya,Sarj Aleti,Aksesuar,3,1194.42,2025-07-17,3583.26
+420,Fatma Sahin,Laptop,Elektronik,2,367.67,2025-05-18,735.34
+421,Elif Aydin,Tablet,Elektronik,1,1050.9,2025-03-30,1050.9
+422,Mustafa Yildiz,Laptop,Elektronik,3,486.35,2025-06-28,1459.05
+423,Mustafa Yildiz,Sarj Aleti,Aksesuar,5,541.4,2025-01-04,2707.0
+424,Elif Aydin,Monitor,Elektronik,1,1144.84,2025-05-22,1144.84
+425,Fatma Sahin,Monitor,Elektronik,3,1729.91,2025-05-04,5189.73
+426,Mehmet Demir,Laptop,Elektronik,3,1620.59,2025-09-12,4861.77
+427,Fatma Sahin,Mouse,Aksesuar,1,555.88,2025-04-24,555.88
+428,Mehmet Demir,Sarj Aleti,Aksesuar,2,1817.73,2025-08-30,3635.46
+429,Zeynep Arslan,Kulaklik,Aksesuar,2,1494.79,2025-04-24,2989.58
+430,Zeynep Arslan,Monitor,Elektronik,3,485.49,2025-05-31,1456.47
+431,Ayse Kaya,Sarj Aleti,Aksesuar,5,1709.87,2025-04-10,8549.35
+432,Mehmet Demir,Telefon,Elektronik,1,1741.62,2025-04-13,1741.62
+433,Mehmet Demir,Monitor,Elektronik,4,847.92,2025-04-03,3391.68
+434,Ahmet Yilmaz,Telefon,Elektronik,1,1000.78,2025-04-18,1000.78
+435,Mehmet Demir,Kulaklik,Aksesuar,1,1173.74,2025-08-08,1173.74
+438,Ali Celik,Klavye,Aksesuar,4,1402.37,2025-01-24,5609.48
+439,Zeynep Arslan,Mouse,Aksesuar,5,1899.5,2025-03-10,9497.5
+441,Zeynep Arslan,Kulaklik,Aksesuar,1,948.9709999999999,2025-01-20,948.97
+442,Ahmet Yilmaz,Tablet,Elektronik,1,1759.26,2025-01-11,1759.26
+443,Ali Celik,Laptop,Elektronik,5,1395.01,2025-03-20,6975.05
+444,Ali Celik,Klavye,Aksesuar,1,1405.62,2025-03-12,1405.62
+445,Ali Celik,Tablet,Elektronik,1,1669.77,2025-02-24,1669.77
+446,Fatma Sahin,Sarj Aleti,Aksesuar,5,437.36,2025-07-29,2186.8
+447,Zeynep Arslan,Mouse,Aksesuar,4,362.73,2025-01-07,1450.92
+448,Ayse Kaya,Telefon,Elektronik,2,1818.42,2025-02-08,3636.84
+449,Ali Celik,Telefon,Elektronik,3,1814.32,2025-02-21,5442.96
+450,Mustafa Yildiz,Kulaklik,Aksesuar,3,1754.57,2025-02-18,5263.71
+451,Zeynep Arslan,Laptop,Elektronik,3,68.86,2025-05-18,206.58
+452,Elif Aydin,Telefon,Elektronik,4,776.61,2025-07-17,3106.44
+453,Mehmet Demir,Sarj Aleti,Aksesuar,1,1609.8,2025-01-31,1609.8
+454,Elif Aydin,Kulaklik,Aksesuar,5,252.24,2025-07-14,1261.2
+455,Elif Aydin,Monitor,Elektronik,2,1242.15,2025-02-27,2484.3
+456,Fatma Sahin,Tablet,Elektronik,1,909.34,2025-06-23,909.34
+457,Mehmet Demir,Telefon,Elektronik,4,894.05,2025-10-13,3576.2
+458,Elif Aydin,Laptop,Elektronik,4,72.71,2025-02-08,290.84
+459,Fatma Sahin,Sarj Aleti,Aksesuar,5,675.24,2025-07-13,3376.2
+460,Elif Aydin,Tablet,Elektronik,5,1643.35,2025-09-13,8216.75
+461,Ayse Kaya,Sarj Aleti,Aksesuar,1,666.32,2025-01-19,666.32
+462,Fatma Sahin,Laptop,Elektronik,3,1660.52,2025-08-22,4981.56
+463,Zeynep Arslan,Monitor,Elektronik,4,758.52,2025-08-31,3034.08
+464,Ahmet Yilmaz,Monitor,Elektronik,2,1446.03,2025-05-30,2892.06
+465,Mustafa Yildiz,Monitor,Elektronik,2,1051.6790624999999,2025-04-11,2103.36
+466,Zeynep Arslan,Klavye,Aksesuar,2,285.45,2025-08-01,570.9
+467,Elif Aydin,Laptop,Elektronik,4,1856.92,2025-09-16,7427.68
+468,Mustafa Yildiz,Kulaklik,Aksesuar,5,948.9709999999999,2025-09-05,4744.85
+469,Mustafa Yildiz,Kulaklik,Aksesuar,1,1399.04,2025-06-14,1399.04
+470,Ali Celik,Tablet,Elektronik,2,866.4,2025-06-25,1732.8
+471,Ali Celik,Mouse,Aksesuar,5,933.05,2025-10-08,4665.25
+472,Fatma Sahin,Monitor,Elektronik,2,1438.15,2025-05-29,2876.3
+473,Zeynep Arslan,Monitor,Elektronik,2,1846.32,2025-06-30,3692.64
+474,Ali Celik,Sarj Aleti,Aksesuar,5,1186.47,2025-08-05,5932.35
+475,Fatma Sahin,Laptop,Elektronik,1,1062.8605454545457,2025-03-24,1062.86
+476,Fatma Sahin,Mouse,Aksesuar,3,1382.61,2025-01-17,4147.83
+477,Fatma Sahin,Monitor,Elektronik,5,1637.35,2025-10-15,8186.75
+478,Ahmet Yilmaz,Tablet,Elektronik,3,513.31,2025-07-18,1539.93
+480,Zeynep Arslan,Klavye,Aksesuar,2,1260.1,2025-10-07,2520.2
+481,Ayse Kaya,Klavye,Aksesuar,2,1563.49,2025-03-30,3126.98
+482,Mehmet Demir,Telefon,Elektronik,2,785.54,2025-05-11,1571.08
+483,Zeynep Arslan,Laptop,Elektronik,2,694.6,2025-06-04,1389.2
+484,Fatma Sahin,Sarj Aleti,Aksesuar,3,1590.32,2025-09-24,4770.96
+485,Ayse Kaya,Telefon,Elektronik,4,1583.2,2025-04-20,6332.8
+486,Elif Aydin,Monitor,Elektronik,5,695.58,2025-01-05,3477.9
+487,Fatma Sahin,Telefon,Elektronik,5,1354.43,2025-06-14,6772.15
+489,Fatma Sahin,Monitor,Elektronik,3,1052.9,2025-02-12,3158.7
+490,Ayse Kaya,Telefon,Elektronik,1,376.42,2025-04-20,376.42
+491,Ayse Kaya,Tablet,Elektronik,4,1679.55,2025-03-20,6718.2
+492,Mehmet Demir,Laptop,Elektronik,1,945.49,2025-10-13,945.49
+493,Elif Aydin,Telefon,Elektronik,4,1171.18,2025-08-10,4684.72
+494,Ayse Kaya,Monitor,Elektronik,5,82.94,2025-10-27,414.7
+495,Ali Celik,Laptop,Elektronik,1,1416.72,2025-06-04,1416.72
+496,Elif Aydin,Telefon,Elektronik,1,598.96,2025-04-23,598.96
+497,Mehmet Demir,Kulaklik,Aksesuar,3,1506.17,2025-07-11,4518.51
+498,Mustafa Yildiz,Laptop,Elektronik,1,1129.37,2025-02-13,1129.37
+499,Mustafa Yildiz,Mouse,Aksesuar,2,459.6,2025-09-20,919.2
+500,Ayse Kaya,Kulaklik,Aksesuar,2,363.86,2025-10-18,727.72
